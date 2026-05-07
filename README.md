@@ -1,2 +1,10 @@
-# student-management-system
-Student Management System with Python
+# Student Management System
+
+A basic Python project to manage student records.
+
+## Features
+- Add Student
+- View Student List
+
+## Technologies Used
+- Python
